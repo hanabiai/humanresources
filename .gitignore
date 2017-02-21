@@ -1,0 +1,16 @@
+# ignore package from npm installed package.
+node_modules
+# certificate file for cookie secret.
+credentials.js
+# heroku Local .env file
+.env
+# tests files
+qa/
+# ssl files
+ssl/
+# log and binary data
+log/
+data/
+# etc.
+.DS_Store
+*~
